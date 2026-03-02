@@ -15,7 +15,7 @@ git clone https://github.com/i1kazantsev/claude-code-spinner.git
 cd claude-code-spinner
 ```
 
-Запусти Claude Code и выполни слеш-команду:
+Запусти Claude Code и выполни:
 
 ```
 /install-spinner
